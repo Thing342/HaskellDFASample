@@ -1,9 +1,9 @@
-# Implementation of a DFA in Haskell
-A sample DFA has been provided.
+# Implementation of a DFA and an NFA in pure Haskell
+Sample code for both is available at `dfa_sample.hs` and `nfa_sample.hs`, respectively.
 
-To run:
+To play with the samples:
 ```{sh}
-gchi dfa.hs
+gchi dfa_sample.hs
 ```
 Then, in GHCi:
 ```
